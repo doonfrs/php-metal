@@ -5,7 +5,7 @@
 It allows developers to build dynamic HTML structures in PHP with a clean and intuitive syntax.
 
 ## 🌟 Please Star the Repo!
-If you find this plugin helpful, please consider starring the repository ⭐! Your support helps others discover this tool and motivates further improvements.
+If you find this package helpful, please consider starring the repository ⭐! Your support helps others discover it and motivates further improvements.
 
 ## Key Features
 
