@@ -4,6 +4,9 @@
 **Metal** is a lightweight, pure PHP template engine inspired by Flutter's declarative UI principles. 
 It allows developers to build dynamic HTML structures in PHP with a clean and intuitive syntax.
 
+## 🌟 Please Star the Repo!
+If you find this plugin helpful, please consider starring the repository ⭐! Your support helps others discover this tool and motivates further improvements.
+
 ## Key Features
 
 - **Flutter-Inspired Design**: Create HTML using a declarative, widget-like approach.
@@ -77,6 +80,13 @@ echo $html;
 ## Requirements
 
 - PHP 8.1 or higher
+
+
+### Support me
+
+If you’d like to support further development or show appreciation, donations are welcome! You can make a one-time donation through PayPal:
+
+[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=R8SL63KKCGL82)
 
 ## Contributing
 
