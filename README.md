@@ -11,13 +11,15 @@ It allows developers to build dynamic HTML structures in PHP with a clean and in
 - **Declarative Syntax**: Simplifies the creation of nested and complex HTML structures.
 - **Chained Rendering**: Combine and render multiple HTML elements efficiently.
 - **Lightweight and Fast**: Built for performance and simplicity.
+- **Plugin Support** : Extend functionality by integrating custom plugins for advanced use cases.
+
 
 ## Installation
 
 Install Metal via Composer:
 
 ```bash
-composer require your-vendor/php-metal
+composer require trinavo/php-metal
 ```
 
 ## Usage
